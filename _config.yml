@@ -1,2 +1,3 @@
 name: Sameet Nasnodkar, Tinkerer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
