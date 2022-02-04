@@ -41,3 +41,5 @@ kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 
 exclude: ['README.md', 'LICENSE']
+
+theme: jekyll-theme-hacker
