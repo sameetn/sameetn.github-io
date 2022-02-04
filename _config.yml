@@ -1,11 +1,11 @@
 # Jekyll configuration
 
-name: The Experimental Blog
-description: A blogging experiment
+name: Random Musings on Technology
+description: A result of my tinkering
 
 # Url is currently only used only for the RSS feed in feed.xml
-#url: https://sameetn.github.io
-url: http://localhost:4000
+url: https://sameetn.github.io
+#url: http://localhost:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 baseurl:
@@ -22,12 +22,6 @@ google_analytics_key:
 # Yandex metrika (https://metrica.yandex.com/) leave blanc to ignore or put true to use
 yandex_metrica:
 
-
-# Set this to your disqus shortname to enable comments. Note that the 'comments'
-# setting below must also be true. Individual posts can override 'comments' to
-# disable on a post-by-post basis
-disqus: sameetsblog
-comments: true
 
 permalink: /:year/:month/:title
 
